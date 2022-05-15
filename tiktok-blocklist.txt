@@ -3731,7 +3731,7 @@
 (^|\.)tiktok\.org$
 (^|\.)tiktokcdn\.com$
 (^|\.)tiktokv\.com$
-(^|\.)tiktokcdn-us.com$
+(^|\.)tiktokcdn-us\.com$
 0.0.0.0 pull-flv-l16-tt01.tiktokcdn-us.com
 0.0.0.0 pull-cmaf-l16-tt01.tiktokcdn-us.com
 0.0.0.0 pull-f5-gcp01.ttlivecdn.com
