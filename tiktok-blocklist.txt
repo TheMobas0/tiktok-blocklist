@@ -3749,3 +3749,5 @@
 0.0.0.0 pull-cmaf-l10-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-l16-sg01.tiktokcdn.com
 0.0.0.0 pull-w5-sg01.tiktokcdn.com
+0.0.0.0 pull-a5-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.ttlivecdn.com
