@@ -3732,3 +3732,17 @@
 (^|\.)tiktokcdn\.com$
 (^|\.)tiktokv\.com$
 (^|\.)tiktokcdn-us.com$
+0.0.0.0 pull-flv-l16-tt01.tiktokcdn-us.com
+0.0.0.0 pull-cmaf-l16-tt01.tiktokcdn-us.com
+0.0.0.0 pull-f5-gcp01.ttlivecdn.com
+0.0.0.0 bsync-va.tiktokv.com
+0.0.0.0 mon16-normal-c-useast1a.tiktokv.com
+0.0.0.0 log22-normal-useast1a.tiktokv.com
+0.0.0.0 pull-flv-l77-va01.tiktokcdn.com
+0.0.0.0 hotapi-va.tiktokv.com
+0.0.0.0 v39-eu.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-gcp01.tiktokcdn.com
+0.0.0.0 pull-f5-tt02.fcdn.us.tiktokv.com
+0.0.0.0 pull-hls-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-f77-sg01.tiktokcdn.com
