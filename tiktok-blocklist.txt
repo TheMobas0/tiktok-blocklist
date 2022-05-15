@@ -1,4 +1,4 @@
-# Tiktok Block List
+# Tiktok Blocklist
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 tiktok.com
 0.0.0.0 tiktok.org
@@ -3726,3 +3726,8 @@
 0.0.0.0 161.117.70.68
 0.0.0.0 akamai.net
 0.0.0.0 webcast19-normal-useast5.us.tiktokv.com
+(^|\.)muscdn\.com$
+(^|\.)musical\.ly$
+(^|\.)tiktok\.com$
+(^|\.)tiktok\.org$
+(^|\.)tiktokcdn\.com$
